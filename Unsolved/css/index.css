@@ -8,5 +8,23 @@ footer {
 }
 
 .card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 360px;
+}
 
+.container-fluid {
+  background-color: pink;
+}
+
+.btn{
+  background-color: black;
+  border: 3px solid pink;
+}
+
+.signUp {
+  margin: 20px auto;
+  background-color: #f2f2f2;
+  padding: 100px;
+  border-radius: 7px;
 }
